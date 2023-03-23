@@ -1,0 +1,158 @@
+.main {
+    width:100%;
+    height: 100%;
+    background-color:#ffe5ec;
+    border: 1px grey solid;
+}
+div.header{
+    text-align:left;
+    padding-left: 35px;
+    padding-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.topnav{
+    width: 19% ;
+    height: 100%;
+    float:left;
+}
+.topnav ul{
+    list-style-type:none;
+}
+.topnav li{
+    padding: 20%;
+    background-color: #fb6f92;
+    height: 100%;
+    border: 1px black solid;
+    text-align: center;
+}
+a:link{
+	text-decoration:none;
+    padding: 10px;
+}
+a:hover{
+	color:black;
+	background-color:#ffc2d1;
+    padding: 10px;
+}
+.about-me {
+    width: 100;
+    height: 100%;
+}
+.profile-image{
+	width: 250px;
+	height:100%;
+    float:right;
+    margin-right: 4%;
+    margin-left: 7%;
+}
+.about-me-text{
+    width: 75%;
+    height: 100%;
+    float: center;
+    padding-left: 10%;
+    margin-left: 15%;
+}
+.junior, .senior, .college{
+    text-align: center;
+    background-color: #ffc2d1;
+    width:50%;
+    height: 100%;
+    margin-left: 25%;
+	margin-right:25%;
+    margin-top: 10px;
+    border: 1px gray solid;
+}
+.elem-image, .junior-image, .senior-image, .college-image{
+    width: 25%;
+    height: 100%;
+    margin-left: 38%;
+    padding-top: 20px;
+}
+.elem-text, .junior-text, .senior-text, .college-text{
+    text-align: center;
+    background-color: #ffc2d1;
+    width:80%;
+    height: 100%;
+    margin-left: 10%;
+	margin-right:10%;
+    margin-bottom: 55px;
+    border: 1px gray solid;
+    padding: 5px;
+}
+.soft, .hard{    
+    text-align: center;
+    background-color:#fb6f92;
+    width:80%;
+    height: 100%;
+    margin-left: 10%;
+	margin-right:10%;
+    margin-top: 10px;
+    border: 1px gray solid;
+}
+.col1{
+    background-color:#ffc2d1;
+    width:80%;
+    height: 100%;
+    margin-left: 10%;
+	margin-right:10%;
+    margin-top: 10px;
+    border: 1px gray solid;
+}
+.col2{
+    background-color:#ffc2d1;
+    width:80%;
+    height: 100%;
+    margin-left: 10%;
+	margin-right:10%;
+    margin-top: -10px;
+    border: 1px gray solid;
+}
+.elem{
+    text-align: center;
+    background-color: #ffc2d1;
+    width:80%;
+    height: 100%;
+    margin-left: 10%;
+	margin-right:10%;
+    border: 1px gray solid;
+}
+ .contact-list{
+	width:75%;
+	height:55px;
+}
+ .contact-list ul{
+	list-style-type: none;
+    width: 100%;
+    height: 55px;
+ }
+.footer{	
+    margin-top:5px;
+    background-color: lightgrey;
+	width:100%;
+	height:120px;
+}
+.contact-list li{
+	padding-left:10%;
+	float: left;
+}
+.nav{
+    width: 75%;
+    height: 10px;
+    width:80%;
+    height: 100%;
+    margin-left: 10%;
+	margin-right:10%;
+    margin-top: 30px;
+    border: 1px gray solid;
+    background-color: #fb6f92;
+} 
+.nav ul{
+    list-style-type: none;
+    width: 100%;
+    height: 10px;
+}
+.nav li{
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
